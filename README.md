@@ -25,7 +25,7 @@ Simply initialize Vagrant using:
 
 ### Perfectly fitting PHP5 web stack provisioning
 
-[Have at look!](https://github.com/fza/vagrant-trusty64-php)
+[Have a look!](https://github.com/fza/vagrant-trusty64-php)
 
 	
 ### Why no Puppet nor Chef?
